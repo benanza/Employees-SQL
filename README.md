@@ -12,13 +12,13 @@
 
 1. Use the information you have to create a table schema for each of the six CSV files, specifying data types, primary keys, foreign keys, and other constraints.
   
-  - See schema.sql in EmployeeSQL folder
+  - *See schema.sql in EmployeeSQL folder*
 
 2. Import each CSV file into the corresponding SQL table.
 
 #### Data Analysis (SQL Queries)
 
-  - See query.sql in EmployeeSQL folder for list of queries addressing the following:
+  - *See query.sql in EmployeeSQL folder for list of queries addressing the following:*
 
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
