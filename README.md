@@ -6,7 +6,8 @@
 
 #### Data Modeling:
 
-1. Inspect the CSVs and sketch out an ERD of the tables (See ERD Diagram.png in EmployeeSQL folder
+1. Inspect the CSVs and sketch out an ERD of the tables
+  - *See ERD Diagram.png in EmployeeSQL folder*
 
 #### Data Engineering:
 
